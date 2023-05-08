@@ -2,10 +2,12 @@
 
 <h2>Features</h2>
 
+```console
 Supports Android & Windows
 Supports TCP & UDP
 Automatic setup
 Port scanner
+```
 
 <h2>Setup</h2>
 
